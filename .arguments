@@ -1,0 +1,4 @@
+paths = /Users/oliver-goeken/Downloads/MyData 3/, /Users/oliver-goeken/Downloads/MyData 2/, /Users/oliver-goeken/Downloads/MyData/
+cid = a0417988eff0429a9a7b186bc6127f4b
+secret = 05a86916ad274c7ab686761ca91bd85f
+redirect_uri = http://127.0.0.1:9090
