@@ -3,7 +3,7 @@ import time
 import json
 import pandas as pd
 from os import listdir
-from spotifydataparser.utils import clear_line
+from utils import clear_line
 
 
 def main():
