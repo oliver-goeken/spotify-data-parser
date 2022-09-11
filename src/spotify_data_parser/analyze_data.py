@@ -2,7 +2,7 @@ import time
 import spotipy
 import datetime
 import pandas as pd
-from utils import clear_line
+from spotifydataparser.utils import clear_line
 from spotipy.oauth2 import SpotifyOAuth
 from spotipy.oauth2 import SpotifyClientCredentials
 
