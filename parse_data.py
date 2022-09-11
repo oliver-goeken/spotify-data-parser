@@ -10,7 +10,7 @@ def main():
     streams = []
 
     start = time.perf_counter()
-    with open(".arguments") as info_file:
+    with open(".credentials") as info_file:
         info_dict = {}
 
         for line in info_file:
