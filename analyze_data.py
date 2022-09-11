@@ -104,7 +104,7 @@ def main():
     artists = []
     songs = []
 
-    with open(".arguments") as info_file:
+    with open(".credentials") as info_file:
         for line in info_file:
             line = line.replace("\n", "")
             line = line.split("=")
