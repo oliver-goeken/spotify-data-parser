@@ -1,1 +1,4 @@
-.arguments
+.credentials
+
+venv/
+data/
